@@ -1,0 +1,18 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Monogram seal, TM">
+  <defs>
+    <path id="ringPathTop" d="M 100,100 m -78,0 a 78,78 0 1,1 156,0" />
+  </defs>
+  <circle cx="100" cy="100" r="96" fill="none" stroke="currentColor" stroke-width="1.2" opacity="0.55"/>
+  <circle cx="100" cy="100" r="86" fill="none" stroke="currentColor" stroke-width="1"/>
+  <circle cx="100" cy="100" r="60" fill="none" stroke="currentColor" stroke-width="1" opacity="0.7"/>
+  <g>
+    <text font-family="'IBM Plex Mono', monospace" font-size="10.2" letter-spacing="3.6" fill="currentColor">
+      <textPath href="#ringPathTop" startOffset="50%" text-anchor="middle">
+        DEPARTMENT OF HUMANITIES &amp; SOCIAL SCIENCES
+      </textPath>
+    </text>
+  </g>
+  <text x="100" y="100" font-family="'Fraunces', serif" font-size="46" font-weight="600" fill="currentColor" text-anchor="middle" dominant-baseline="central">TM</text>
+  <line x1="70" y1="126" x2="130" y2="126" stroke="currentColor" stroke-width="1"/>
+  <text x="100" y="140" font-family="'IBM Plex Mono', monospace" font-size="7.5" letter-spacing="2.5" fill="currentColor" text-anchor="middle">IIT TIRUPATI</text>
+</svg>
